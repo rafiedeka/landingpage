@@ -1,3 +1,21 @@
 */.env
 */dist
 */node_modules
+
+
+
+# Nuxt dev/build outputs
+client/.output
+client/.data
+client/.nuxt
+client/.nitro
+client/.cache
+
+# Logs
+client/logs
+client/*.log
+
+# Misc
+client/.DS_Store
+client/.fleet
+client/.idea
